@@ -1,0 +1,32 @@
+﻿#date {
+    position: relative;
+    top: -8px;
+    background: url("../images/Date.png") no-repeat;
+    background-size: 70%;
+    background-position: center;
+    border-radius: 50%;
+    width: 2.5rem;
+    height: 2.5rem;
+}
+
+#location {
+    position: relative;
+    top: -8px;
+    background: url("../images/Location.png") no-repeat;
+    background-size: 60%;
+    background-position: center;
+    border-radius: 50%;
+    width: 2.5rem;
+    height: 2.5rem;
+}
+
+#dollar {
+    position: relative;
+    top: -8px;
+    background: url("../images/dollar.png") no-repeat;
+    background-size: 60%;
+    background-position: center;
+    border-radius: 50%;
+    width: 2.5rem;
+    height: 2.5rem;
+}

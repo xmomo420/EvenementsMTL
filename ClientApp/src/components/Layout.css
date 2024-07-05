@@ -1,0 +1,12 @@
+﻿.conteneur-form-sm {
+    background: linear-gradient(45deg, #170E42FF, #341D65FF, #5300B3FF, #341D65FF, #170E42FF);
+    vertical-align: center;
+}
+
+#login {
+    width: 35%;
+}
+
+#inscription {
+    width: 60%;
+}
